@@ -1,0 +1,3 @@
+server: registry.eng.opcr.io
+username: aserto-tests
+repo: testing/peoplefinder-policy
